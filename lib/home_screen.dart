@@ -7,7 +7,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Center(child: const Text('lenanlogic')),
+        title: Center(child: const Text('lenanlogic.com')),
       ),
       body: Column(
         children: [
@@ -25,7 +25,7 @@ class HomeScreen extends StatelessWidget {
                 )
               ],
             ),
-            child: const Center(child: Text('Logic Header')),
+            child: const Center(child: Text('Logic Jumbo Tron')),
           ),
           Container(
             margin: const EdgeInsets.all(5),
